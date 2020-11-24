@@ -1,9 +1,4 @@
 # ip-utils
-### _Your Name <your.name@example.com>_
+### _Niten <niten@fudo.org>_
 
-This is a project to do ... something.
-
-## License
-
-Specify license here
-
+Simple Common Lisp utilitiy functions for working with IPs.
