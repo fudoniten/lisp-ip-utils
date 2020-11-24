@@ -7,6 +7,9 @@
                 #:regex-replace
                 #:split)
 
+  (:import-from #:split-sequence
+                #:split-sequence)
+
   (:import-from #:trivia
                 #:match)
 

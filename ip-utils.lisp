@@ -3,7 +3,7 @@
 (in-package #:ip-utils)
 
 (defun split-string (string &optional (char #\Space))
-  (split-sequence:split-sequence char string))
+  (split-sequence char string))
 
 (defclass ip ()
   ((ip-number :initarg :ip-number)))

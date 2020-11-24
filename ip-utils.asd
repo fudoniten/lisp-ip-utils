@@ -7,6 +7,7 @@
   :version "0.0.1"
   :serial t
   :depends-on (:cl-ppcre
+               :split-sequence
                :trivia)
   :components ((:file "package")
                (:file "ip-utils")))
